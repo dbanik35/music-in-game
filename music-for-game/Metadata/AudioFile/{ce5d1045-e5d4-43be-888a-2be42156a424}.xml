@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{ce5d1045-e5d4-43be-888a-2be42156a424}">
+		<property name="assetPath">
+			<value>Music/Church_Organ2.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>12.150226757369614</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{edb9ce93-cc71-49f4-8f8a-47d5cfed8a79}</destination>
+		</relationship>
+	</object>
+</objects>

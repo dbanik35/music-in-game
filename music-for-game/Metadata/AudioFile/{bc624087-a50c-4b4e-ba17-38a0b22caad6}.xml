@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{bc624087-a50c-4b4e-ba17-38a0b22caad6}">
+		<property name="assetPath">
+			<value>Music/abient3.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>12.151065759637188</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{edb9ce93-cc71-49f4-8f8a-47d5cfed8a79}</destination>
+		</relationship>
+	</object>
+</objects>
