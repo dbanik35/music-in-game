@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 989
   m_ShowMode: 4
-  m_Title: Game
+  m_Title: Project
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -119,7 +119,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 47
+  controlID: 93
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -189,8 +189,8 @@ MonoBehaviour:
     y: 0
     width: 352
     height: 573
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 201, y: 221}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -235,7 +235,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 1
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: ConsoleWindow
+  m_Name: ProjectBrowser
   m_EditorClassIdentifier: 
   m_Children: []
   m_Position:
@@ -244,14 +244,14 @@ MonoBehaviour:
     y: 573
     width: 1486
     height: 366
-  m_MinSize: {x: 100, y: 100}
-  m_MaxSize: {x: 4000, y: 4000}
-  m_ActualView: {fileID: 12}
+  m_MinSize: {x: 231, y: 271}
+  m_MaxSize: {x: 10001, y: 10021}
+  m_ActualView: {fileID: 18}
   m_Panes:
   - {fileID: 18}
   - {fileID: 12}
-  m_Selected: 1
-  m_LastSelected: 0
+  m_Selected: 0
+  m_LastSelected: 1
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -349,9 +349,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 8c5d0000
-      m_LastClickedID: 23948
-      m_ExpandedIDs: 1afaffffc45d0000
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 1afaffffc25d0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -705,9 +705,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 403.54944, y: 7.506344, z: 318.44153}
+    m_Target: {x: 402.47485, y: 1.0793104, z: 328.11536}
     speed: 2
-    m_Value: {x: 403.54944, y: 7.506344, z: 318.44153}
+    m_Value: {x: 402.47485, y: 1.0793104, z: 328.11536}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -753,13 +753,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.14501126, y: 0.34087685, z: -0.054226033, w: -0.927537}
+    m_Target: {x: 0.2917923, y: 0.05121724, z: -0.01464743, w: 0.9552734}
     speed: 2
-    m_Value: {x: -0.14497569, y: 0.34079325, z: -0.054212734, w: -0.9273095}
+    m_Value: {x: 0.2902825, y: 0.051225662, z: -0.014566664, w: 0.9554579}
   m_Size:
-    m_Target: 10
+    m_Target: 7.1406364
     speed: 2
-    m_Value: 10
+    m_Value: 7.477106
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -905,7 +905,7 @@ MonoBehaviour:
     x: 352
     y: 73
     width: 1132
-    height: 560
+    height: 552
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -1041,14 +1041,14 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Scripts
   m_LastFoldersGridSize: 64
-  m_LastProjectPath: C:\Unity 2024\GitHub\TheTavernMusic_blank
+  m_LastProjectPath: C:\Users\dbanik\Desktop\music-project\music-soundtrack
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 48670000
-    m_LastClickedID: 26440
-    m_ExpandedIDs: 00000000226700002467000026670000
+    scrollPos: {x: 0, y: 123}
+    m_SelectedIDs: 4c670000
+    m_LastClickedID: 26444
+    m_ExpandedIDs: 00000000206700002267000024670000486700007a67000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1076,7 +1076,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000226700002467000026670000
+    m_ExpandedIDs: 00000000206700002267000024670000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1101,8 +1101,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: ee0b0000
-    m_LastClickedInstanceID: 3054
+    m_SelectedInstanceIDs: 
+    m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c62300009461000000000000
     m_RenameOverlay:
@@ -1173,7 +1173,7 @@ MonoBehaviour:
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 1080
+  m_LastVerticalScrollValue: 0
   m_GlobalObjectId: 
   m_InspectorMode: 0
   m_LockTracker:
